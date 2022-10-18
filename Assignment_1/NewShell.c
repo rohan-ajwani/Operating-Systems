@@ -1,7 +1,7 @@
 /* 
-Assignment 1 - Question 1
+Assignment 1 - Question 1 (Question description in pdf attached in the folder)
 This is an Custom Shell created in C
-It has 6 custom functions: cd, mkdir, help, touch, echo, exit, which have been implemented using C 
+It has 6 custom functions: cd, mkdir, help, touch, echo, exit, which have been implemented using C
 */
 
 #include <sys/wait.h>
